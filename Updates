@@ -1,0 +1,2 @@
+v1.5 = "Open With" prompt, allowing users to open script using forge.
+v1.6 = Malware and Trojan detection (False) Removing detections on virus total. (False Detections, fixing)
